@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#PBS -N mpi-max
+#PBS -q viprgs -l select=1:ncpus=20:ngpus=2:mem=64gb:gpu_model=v100,walltime=48:00:00
+#Pbs -j oe
+
+cd libpressio_tutorial/exercises/1_basics/python/
+python lossless.py
