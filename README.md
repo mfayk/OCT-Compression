@@ -1,5 +1,8 @@
 # OCT-Compression
-Lossy / Lossless compression of OCT biofilm images utalizing libpressio
+Lossy / Lossless compression of OCT biofilm images with libpressio
+
+
+![alt text](http://url/to/img.png)
 
 
 
